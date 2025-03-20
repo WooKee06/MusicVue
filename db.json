@@ -1,0 +1,28 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "songUrl": "http://localhost:8080/assets/songs/the_weekend.mp3",
+      "lyrics": "I been tryna call\nI been on my own for long enough\nMaybe you can show me how to love, maybe\nI'm going through withdrawals\nYou don't even have to do too much\nYou can turn me on with just a touch, baby\n\nI look around and Sin City's cold and empty (oh)\nNo one's around to judge me (oh)\nI can't see clearly when you're gone\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\nHey, hey, hey\n\nI'm running out of time\n'Cause I can see the sun light up the sky\nSo I hit the road in overdrive, baby Oh, the city's cold and empty (oh)\nNo one's around to judge me (oh)\nI can't see clearly when you're gone\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\n\nI'm just walking by to let you know (by to let you know)\nI can never say it on the phone (say it on the phone)\nWill never let you go this time (ooh)\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nHey, hey, hey\nHey, hey, hey\n\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch ",
+      "cover": "https://avatars.yandex.net/get-music-content/2355477/91860d7c.a.12105328-1/m1000x1000?webp=false"
+    },
+    {
+      "id": 2,
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "songUrl": "https://example.com/songs/levitating.mp3",
+      "lyrics": "If you wanna run away with me, I know a galaxy",
+      "cover": "https://example.com/covers/levitating.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "songUrl": "https://example.com/songs/believer.mp3",
+      "lyrics": "First things first\nI'ma say all the words inside my head",
+      "cover": "https://example.com/covers/believer.jpg"
+    }
+  ]
+}
