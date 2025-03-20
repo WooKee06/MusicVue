@@ -123,3 +123,11 @@ svg {
   opacity: 0.3;
 }
 </style>
+
+<style>
+@media (max-width: 768px) {
+  nav {
+    flex-direction: row !important;
+  }
+}
+</style>

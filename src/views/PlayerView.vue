@@ -564,3 +564,25 @@ button {
   opacity: 0.4;
 }
 </style>
+
+<style>
+@media (max-width: 768px) {
+  .wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .player-text {
+    display: none;
+  }
+
+  .player,
+  .container {
+    width: 90vw !important;
+  }
+
+  .profile {
+    width: 100% !important;
+  }
+}
+</style>
